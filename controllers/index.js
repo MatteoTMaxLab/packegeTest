@@ -1,1 +1,3 @@
-console.log('controllers/index.js');
+export const controllers = () => {
+    console.log('controllers');
+}

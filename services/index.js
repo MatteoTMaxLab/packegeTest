@@ -1,1 +1,3 @@
-console.log('services/index.js');
+export const services = () => {
+    console.log('services');
+}
